@@ -10,6 +10,8 @@ Last year sometime I saw a post on a Discord server where someone was remotely c
 
 It is unlikely I go back to the code much because after moving house we no longer have that TV so I can't test new code. Documentation may be added but honestly the library is pretty small and I wouldn't be able to add much more of value than you can find in the code and example.
 
+If you find this interesting or want to extend the library, I plan on making a blog post later explaining how I made this. In the meantime, check out [this post by Scott Driggers](https://scottdriggers.com/blog/how-i-built-roam/), which seems to follow a similar process to what I did and expands on private listening mode, which I didn't implement here.
+
 ## Credits
 
 Credit for finding the challenge authentication key goes to [@attain-squiggly-zeppelin](https://github.com/attain-squiggly-zeppelin) in [this GitHub issue thread](https://github.com/home-assistant/core/issues/83819). I know basically nothing about reverse engineering APKs so could not have done this without you. Thank you!
